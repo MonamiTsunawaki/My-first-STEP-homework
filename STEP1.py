@@ -33,4 +33,5 @@ def find_words(given_words):
     else:
         print('None')
 
-print(find_words('wntire'))
+word3 = input()
+print(find_words(word3))
